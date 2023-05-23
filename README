@@ -1,0 +1,13 @@
+GO TO whiat.py, and search for #EDIT IF YOU WANTTT it will show you this:
+MODIFY THIS HOWEVER YOU WANT!
+
+#EDIT IF YOU WANTTT
+if hand_sign_id==3:
+  if before_hand_sign_id==4:
+      print("snap!")
+      screen_off()
+      time.sleep(3)
+      screen_on()
+      
+      
+      
